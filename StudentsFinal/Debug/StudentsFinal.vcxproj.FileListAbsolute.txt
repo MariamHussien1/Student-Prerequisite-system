@@ -1,0 +1,4 @@
+C:\Users\maria\source\repos\StudentsFinal\Debug\StudentsFinal.exe
+C:\Users\maria\source\repos\StudentsFinal\Debug\StudentsFinal.pdb
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Debug\StudentsFinal.exe
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Debug\StudentsFinal.pdb

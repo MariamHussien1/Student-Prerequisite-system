@@ -1,0 +1,17 @@
+﻿  MyMain.cpp
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(88,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(101,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(131,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(175,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Students.h(195,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(66,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(91,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(97,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(161,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maria\OneDrive\Desktop\StudentsFinal\Admin.h(164,22): warning C4018: '<': signed/unsigned mismatch
+  StudentsFinal.vcxproj -> C:\Users\maria\OneDrive\Desktop\StudentsFinal\Debug\StudentsFinal.exe
